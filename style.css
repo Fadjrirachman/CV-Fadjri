@@ -34,7 +34,7 @@ p {
 hr {
   border: dotted #aaf4bc 5px;
   border-bottom: none;
-  width: 50%;
+  width: 30%;
   margin: 100px auto;
 }
 
@@ -60,10 +60,9 @@ a:hover {
 }
 
 .top-container {
-  width: auto;
   background-color: #9bd866;
   position: relative;
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 .middle-container {
@@ -137,8 +136,4 @@ a:hover {
   font-size: 0.8rem;
   padding: 20px 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.farm-img {
-  width: max-content;
 }
